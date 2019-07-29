@@ -1,3 +1,1 @@
-### Learn Rust 
-
-![Gohan](gohan.gif)
+### Learn Rust
